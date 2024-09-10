@@ -1,5 +1,5 @@
 provider "google" {
-    project = ""
+    project = "refreshing-oven-432114-i0"
 }
 
 resource "google_compute_instance" "myinstance" {
